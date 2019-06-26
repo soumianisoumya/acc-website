@@ -1,0 +1,85 @@
+.parallax {
+  /* The image used */
+  background-image: url("../../assets/main-qimg-099e3a2689b7cab81091e83abff08b9f.jpg");
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax3 {
+  /* The image used */
+  background-image: url("../../assets/drew-beamer-679505-unsplash.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax2 {
+  /* The image used */
+  background-image: url("../../assets/trent-erwin-338084-unsplash.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.parallax4 {
+  /* The image used */
+  background-image: url("../../assets/alvin-engler-48444-unsplash.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body {
+    font-family: sans-serif;
+}
+
+/* Style the header*/
+.header1 {
+    background-color: #BFEFFF;
+    padding: 20px;
+    color: black;
+}
+.tble {
+padding-top:10%;
+padding-bottom:10%;
+padding-left:10%;
+}
+.tble1{
+padding-top:10%;
+padding-left:40%;
+width:100%;}
+/* .carousel-inner > .item > img{ width:100%; height:410px;  */
+.carousel-inner > .item > img{ width:100%; height:100%;
+    display: block;
+    margin:0px;
+    max-width: 100%;
+    width: 100%; }
+.row{
+    margin-top:10px;
+    margin-bottom:0px;
+}
+
+
